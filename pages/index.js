@@ -17,8 +17,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Test page only{' '}
+          <code className={styles.code}>test page here</code>
         </p>
 
         <div className={styles.grid}>
