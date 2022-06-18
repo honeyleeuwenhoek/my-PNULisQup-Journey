@@ -13,12 +13,12 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          This is a test page
+          My PNU-LisQUP Journey
         </h1>
 
         <p className={styles.description}>
-          Test page only{' '}
-          <code className={styles.code}>test page here</code>
+           Just another drama on my Masters degree journey YEY XD{' '}
+          <code className={styles.code}>snippets only</code>
         </p>
 
         <div className={styles.grid}>
